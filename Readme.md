@@ -2,7 +2,7 @@
 
 Clone the application on local 
 
-`git clone `
+`git clone https://github.com/purvicn/task_builder.git`
 
 
 ## To Run and test application with Docker
